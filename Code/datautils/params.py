@@ -1,0 +1,6 @@
+fname_catalog = 'course_catalog.csv'
+fname_enrollment = 'course_enrollments.csv'
+fname_qdata = 'q_data.csv'
+fname_ptp = 'ptp_counts.csv'
+fname_students = 'students.csv'
+fname_times = 'course_times_offered.csv'
